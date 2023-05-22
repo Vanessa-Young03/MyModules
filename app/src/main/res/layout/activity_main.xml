@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity" >
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:padding="16px"
+        android:text="@string/MyModule"
+        android:textSize="24sp" />
+
+    <TextView
+        android:id="@+id/C346"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="16px"
+        android:text="@string/C346" />
+
+    <TextView
+        android:id="@+id/C206"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="16px"
+        android:text="@string/C206" />
+
+    <TextView
+        android:id="@+id/C203"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="16px"
+        android:text="@string/C203" />
+
+    <TextView
+        android:id="@+id/C218"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="16px"
+        android:text="@string/C218" />
+
+    <TextView
+        android:id="@+id/G953"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="16px"
+        android:text="@string/G953" />
+
+    <TextView
+        android:id="@+id/C235"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="16px"
+        android:text="@string/C235" >
+    </TextView>
+</LinearLayout>
